@@ -19,7 +19,7 @@ Busco oportunidade como estagiário em Front-End para evoluir em desenvolvimento
     <img src="https://img.shields.io/badge/GitHub-RobsonLuciano-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/robson-luciano-pereira/">
-    <img src="https://img.shields.io/badge/LinkedIn-robson-luciano-pereira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-robson-luciano-pereira/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
