@@ -1,6 +1,6 @@
 # Olá 👋🏻, Eu sou Robson Luciano
 
-🚀 **Graduando em Analise e Desenvolvimento de Sistemas pela UNESA**
+🚀 **Graduando em Analise e Desenvolvimento de Sistemas pela UNESA** 
 📍 Rio de Janeiro – Brasil
 
 Sou estudante de **desenvolvimento de software** com foco em **Front-End**, construindo aplicações práticas para consolidar fundamentos de programação e estrutura de sistemas.
@@ -63,5 +63,5 @@ Busco oportunidade como estagiário em Front-End para evoluir em desenvolvimento
 
 ---
 
-⭐ Fique à vontade para explorar meus repositórios 
+⭐ Fique à vontade para explorar meus repositórios  
 🤝 Aberto a oportunidades, colaborações e novos desafios
