@@ -63,5 +63,6 @@ Busco oportunidade como estagiário em Front-End para evoluir em desenvolvimento
 
 ---
 
-⭐ Fique à vontade para explorar meus repositórios
+⭐ Fique à vontade para explorar meus repositórios 
+
 🤝 Aberto a oportunidades, colaborações e novos desafios
