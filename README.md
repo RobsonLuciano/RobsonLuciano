@@ -48,15 +48,6 @@ Busco oportunidade como estagiário em Front-End para evoluir em desenvolvimento
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RobsonLuciano&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobsonLuciano&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Objetivo
 
 > _"Criar páginas modernas e elegantes."_  
